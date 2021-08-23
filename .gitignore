@@ -7,6 +7,9 @@ __pycache__
 *.tar
 *.gz
 
+*.wav
+*.mp3
+
 dataset/
 TrainAudioFiles/
 TestAudioFiles/
@@ -17,3 +20,5 @@ papers/
 *.h5  
 *.json
 *.log
+*/submission1.csv
+
