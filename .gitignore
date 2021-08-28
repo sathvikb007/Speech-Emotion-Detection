@@ -9,7 +9,6 @@ __pycache__
 
 *.wav
 *.mp3
-*.hdf5
 
 
 dataset/**
@@ -18,9 +17,7 @@ TestAudioFiles/
 sample_submission.csv
 papers/**
 
-*.hdf5
-*.h5  
 *.json
 *.log
-*/submission1.csv
+submission2.csv
 
