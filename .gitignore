@@ -9,12 +9,14 @@ __pycache__
 
 *.wav
 *.mp3
+*.hdf5
 
-dataset/
+
+dataset/**
 TrainAudioFiles/
 TestAudioFiles/
 sample_submission.csv
-papers/
+papers/**
 
 *.hdf5
 *.h5  
